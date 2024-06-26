@@ -1,4 +1,7 @@
 
+# Setup
 
-Step 1. install gridsynth in your virtual env
-Step 2. `pip install -r minimum_requirements.txt`
+Install [gridsynth](https://www.mathstat.dal.ca/~selinger/newsynth/), [gurobi](https://www.gurobi.com/).
+In a new virtual environment, run `pip install -r requirements.txt`
+
+Code and data for reproducing Fig.4 are available upon request.
