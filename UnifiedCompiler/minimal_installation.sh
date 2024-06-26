@@ -1,0 +1,1 @@
+pip install numpy scipy qutip qulacs qulacsvis ipykernel qiskit cvxpy
